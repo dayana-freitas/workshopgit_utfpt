@@ -11,3 +11,9 @@ ssh-add
 cd .ssh
 ls
 cat id_ed25519.pub
+
+
+
+
+
+
